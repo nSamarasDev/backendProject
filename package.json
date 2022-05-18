@@ -1,0 +1,14 @@
+{
+  "name": "shaheen",
+  "version": "1.0.0",
+  "description": "shaheenBackend ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "keywords": [
+    "shaheen"
+  ],
+  "author": "Nicholsa Samaras",
+  "license": "MIT"
+}
